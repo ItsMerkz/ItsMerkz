@@ -1,3 +1,3 @@
-```
-Merkz-Dev :)
+```py
+print("Merkz-Dev :)")
 ```
