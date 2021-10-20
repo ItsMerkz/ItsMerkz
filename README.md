@@ -1,3 +1,4 @@
 ```py
-print("Merkz-Dev :)")
+print("Merkz-Dev")
 ```
+[Telegram] ('https://t.me/merkdevgit')
