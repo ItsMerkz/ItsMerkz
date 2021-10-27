@@ -1,4 +1,3 @@
-```py
-print("Merkz-Dev")
-[Telegram] (https://t.me/merkdevgit)
-```
+🔥/ Name \🔥 --> Haribo
+🔥/ Age \🔥 --> 13
+🔥/ Discord \🔥 --> Haribo#1337
