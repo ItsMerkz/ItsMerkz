@@ -15,7 +15,7 @@ class Haribo1337(ReadMe):
         self.occupation = "Python Dev"
         self.projects = {
             "public": {
-                  "total": 15,
+                  "total": 16,
                   "location": "github.com/haribo1337?tab=repositories"
             }
 ```            
