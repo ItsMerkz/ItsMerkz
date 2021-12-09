@@ -17,5 +17,6 @@ class Merkz1337(ReadMe):
             "public": {
                   "total": 17,
                   "location": "github.com/Merkz1337?tab=repositories"
+                  }
             }
 ```            
