@@ -6,7 +6,7 @@ class Merkz1337(ReadMe):
 
     def __init__(self):
         self.username = "Merkz1337"
-        self.server = "https://discord.gg/DpDkskwevf"
+        self.server = "https://discord.gg/merkz"
         self.contacts = {
             "Discord": "Merkz#1337",
             "Telegram": None
