@@ -8,7 +8,7 @@ class Merkz1337(ReadMe):
         self.username = "Merkz1337"
         self.server = "https://discord.gg/merkz"
         self.contacts = {
-            "Discord": "Merkz#1337",
+            "Discord": "Merkz.#3451",
             "Telegram": None
         }
         self.location = "England / London"
